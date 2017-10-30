@@ -1,6 +1,6 @@
 ###### Created by Luka Schulz
 ## The Collective Unconscious
-A repository of websites that are chock full of visual gucciness.
+It is needlessly hopless to try and rember everything in this day and age. As a result, I have ammassed the following links from friends and I hope something bellow will spark your imagination. 
 
 ### Visual Inspiration
 [Otaku Gangster](http://otakugangsta.com/ "Otaku Gangster")
