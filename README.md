@@ -36,7 +36,7 @@ It seems that you have found my secondary storage unit, a curated collection of 
 
 [Amir Karimian](http://www.posterpage.ch/exhib/ex355kar/ex355kar.htm "Amir Karimian")
 
-[Mirko Ilic](http://www.posterpage.ch/exhib/ex354tol/ex354tol.htm) "Mirko Ilic")
+[Mirko Ilic](http://www.posterpage.ch/exhib/ex354tol/ex354tol.htm "Mirko Ilic")
 
 [Korean Posters](http://www.posterpage.ch/exhib/ex353kor/ex353kor.htm "Korean Posters")
 
