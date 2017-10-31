@@ -1,6 +1,6 @@
 ###### Created by Luka Schulz
 ## The Collective Unconscious
-It seems that you have found my exocortex, a curated collection of all the scintilating gems that I have found while bumbling around the internet over the year. Feel free to poke around, get inspired, but never forget to get back to the real world.
+It seems that you have found my exocortex, a curated collection of all the scintilating gems that I have found while bumbling around the internet over the years. Feel free to poke around, get inspired, but never forget to get back to the real world.
 
 ### Visual Inspiration
 [Otaku Gangster](http://otakugangsta.com/ "Otaku Gangster")
