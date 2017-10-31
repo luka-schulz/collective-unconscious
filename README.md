@@ -67,7 +67,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Font Review Journal](http://fontreviewjournal.com/ "Font Review Journal")
 
 
-## Web Design
+### Web Design
 [Admire the Web](https://www.admiretheweb.com/ "Admire the Web")
 
 
@@ -75,11 +75,11 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [le Manoosh](https://lemanoosh.com/ "le Manoosh")
 
 
-## Fine Art
+### Fine Art
 [Arsty](https://www.artsy.net/ "Artsy")
 
 
-## Blogs
+### Blogs
 [Hello Bauldoff](http://hello.bauldoff.com/ "Hello Bauldoff")
 
 [Designculture](http://www.designculture.it/interview.html "Design Culture")
