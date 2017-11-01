@@ -86,4 +86,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Letterpunch](http://letterpunch.blogspot.com/ "Letterpunch")
 
+[Network Osaka](http://www.networkosaka.com/ "Network Osaka")
+
+
+
 
