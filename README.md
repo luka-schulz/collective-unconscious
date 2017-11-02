@@ -175,7 +175,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 ### Design Studios
 
-[Image of the Studio](9http://imageofthestudio.com/studios "Image of the Studio")
+[Image of the Studio](http://imageofthestudio.com/studios "Image of the Studio")
 
 [Open Directory](http://www.open-directory.co/ "Open Directory")
 
@@ -211,5 +211,5 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [New York Public Domain](http://publicdomain.nypl.org/pd-visualization/ "New York Public Domain")
 
-[Nature](https://www.nature.com/srep/ "Nature"]
+[Nature](https://www.nature.com/srep/ "Nature")
 
