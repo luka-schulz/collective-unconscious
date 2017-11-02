@@ -23,6 +23,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Lacma](https://vsco.co/lacma/collection/1 "Lacma")
 
+[Artnau](http://www.artnau.com/ "Artnau")
+
+[Design Collector](http://designcollector.net/ "Design Collector")
+
 [Hello Bauldoff](http://hello.bauldoff.com/ "Hello Bauldoff")
 
 [Designculture](http://www.designculture.it/interview.html "Design Culture")
@@ -105,6 +109,14 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Letterpunch](http://letterpunch.blogspot.com/ "Letterpunch")
 
 [Network Osaka](http://www.networkosaka.com/ "Network Osaka")
+
+
+### Miscelanious
+[Chicago Design Archive](http://chicagodesignarchive.org/designers "Chicago Design Archive")
+
+[New York Public Domain](http://publicdomain.nypl.org/pd-visualization/ "New York Public Domain")
+
+
 
 
 
