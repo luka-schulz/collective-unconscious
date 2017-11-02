@@ -13,6 +13,14 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Designspiration](https://www.designspiration.net/ "Designspiration")
 
+[Graphic Porn](http://graphic-porn.com/archive "Graphic Porn")
+
+[Trend List](http://trendlist.org/ "Trend List")
+
+[Delicious Dimension](http://deliciousdimension.tumblr.com/ "Delicious Dimension")
+
+[Synaptic Stimuli](http://www.synapticstimuli.com/ "Synaptic Stimuli")
+
 [Lacma](https://vsco.co/lacma/collection/1 "Lacma")
 
 [Hello Bauldoff](http://hello.bauldoff.com/ "Hello Bauldoff")
@@ -66,13 +74,17 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Font Review Journal](http://fontreviewjournal.com/ "Font Review Journal")
 
-[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
+
+### New Medians
+[Ben Yonda](http://benyonda.com/ "Ben Yonda")
+
+[Greg Herman](http://gregoryherman.com/ "Greg Herman")
+
+[Philip Sierzega](http://www.stewardesslollipop.com/ "Philip Sierzega")
 
 
 ### Web Design
 [Admire the Web](https://www.admiretheweb.com/ "Admire the Web")
-
-[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 
 ### Industrial Design
@@ -84,6 +96,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 
 ### Blogs
+[Ignant](https://www.ignant.com/category/art/ "Ignant")
+
 [Hello Bauldoff](http://hello.bauldoff.com/ "Hello Bauldoff")
 
 [Designculture](http://www.designculture.it/interview.html "Design Culture")
@@ -91,8 +105,6 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Letterpunch](http://letterpunch.blogspot.com/ "Letterpunch")
 
 [Network Osaka](http://www.networkosaka.com/ "Network Osaka")
-
-[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 
 
