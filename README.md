@@ -21,6 +21,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Synaptic Stimuli](http://www.synapticstimuli.com/ "Synaptic Stimuli")
 
+[VisualPunker](http://visualpunker.tumblr.com/tagged/fui "VisualPunker")
+
 [Lacma](https://vsco.co/lacma/collection/1 "Lacma")
 
 [Artnau](http://www.artnau.com/ "Artnau")
@@ -36,6 +38,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [The Day's Color](http://www.thedayscolor.com/ "The Day's Color")
 
 [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/ "Subtle Patterns")
+
+[Emoji Book Club](http://emojibook.club/gallery "Emoji Book Club")
 
 
 
@@ -65,6 +69,23 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Blanka Flickr](https://www.flickr.com/photos/blankaposters/albums/with/72157605194372046 "Blanka Flickr")
 
 
+### Interaction / UI
+[Design Details](http://www.brianlovin.com/design-details/ "Design Details")
+
+[Lovely UI](http://www.lovelyui.com/ "Lovely UI")
+
+[UI Movement](https://uimovement.com/ "UI Movement")
+
+[Use Your Interface](http://useyourinterface.com/ "Use Your Interface")
+
+[Pttrns](https://pttrns.com/ "Pttrns")
+
+[Little Big Details](http://littlebigdetails.com/ "Little Big Details")
+
+[Up Labs](https://www.uplabs.com/ "Up Labs")
+
+
+
 ### Typography
 [Typewolf](https://www.typewolf.com/ "Typewolf")
 
@@ -79,6 +100,22 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Font Review Journal](http://fontreviewjournal.com/ "Font Review Journal")
 
 
+
+### Data
+[Inform](http://informform.com/ "Inform")
+
+[Flowing Data](http://flowingdata.com/ "Flowing Data")
+
+[Visualizing Data](http://www.visualisingdata.com/ "Visualizing Data")
+
+[How is the World Feeling?](http://howistheworldfeeling.spurprojects.org/ "How is the World Feeling?")
+
+[Info Aesthetics](http://infosthetics.com/ "Info Aesthetics")
+
+[Catalogtree](http://www.catalogtree.net/ "Catalogtree")
+
+
+
 ### New Medians
 [Ben Yonda](http://benyonda.com/ "Ben Yonda")
 
@@ -86,17 +123,72 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Philip Sierzega](http://www.stewardesslollipop.com/ "Philip Sierzega")
 
+[Kevin Whitfield](http://www.virtualmatter.org/ "Kevin Whitfield")
 
-### Web Design
+[Jake Lodwick](http://jakelodwick.com/ "Jake Lodwick")
+
+[Mike Strobert](http://thejuniorfunclub.com/ "Mike Strobert")
+
+[Miguel Cardona](http://portfolio.miguelcardona.com/ "Miguel Cardona")
+
+[Tim Wood](https://del.icio.us/timwood "Tim Wood")
+
+
+
+### Website Curation
 [Admire the Web](https://www.admiretheweb.com/ "Admire the Web")
+
+[CSS Design Awards](https://cssdesignawards.com/ "CSS Design Awards")
+
+[httpster](https://httpster.net/ "httpster")
+
+[Awwwards](https://www.awwwards.com/ "Awwwards")
+
+[The FWA](http://thefwa.com/ "The FWA")
+
+[The Best Designs](http://thebestdesigns.com/ "The Best Designs")
+
+[Pattern Tap](https://zurb.com/patterntap "Pattern Tap")
+
+[One Page Love](https://onepagelove.com/ "One Page Love")
+
+[Pixel Awards](http://pixelawards.com/ "Pixel Awards")
+
+[Brutalist Websites](http://brutalistwebsites.com/ "Brutalist Websites")
+
+[Site Inspire](https://www.siteinspire.com/ "Site Inspire")
+
+[Flat Inspire](http://flatinspire.com/ "Flat Inspire")
+
+
+
+### Motion
+[Motiontable](http://foxcodex.html.xdomain.jp/ "Motiontable")
+
+[Good Moves](https://goodmoves.tv/ "Good Moves")
+
+[Wine after Coffee](https://vimeo.com/channels/wineaftercoffee "Wine After Coffee")
+
+[Stash Media](http://www.stashmedia.tv/ "Stash Media")
+
+
+
+### Design Studios
+
+[Image of the Studio](9http://imageofthestudio.com/studios "Image of the Studio")
+
+[Open Directory](http://www.open-directory.co/ "Open Directory")
+
 
 
 ### Industrial Design
 [le Manoosh](https://lemanoosh.com/ "le Manoosh")
 
 
+
 ### Fine Art
 [Arsty](https://www.artsy.net/ "Artsy")
+
 
 
 ### Blogs
@@ -110,14 +202,14 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Network Osaka](http://www.networkosaka.com/ "Network Osaka")
 
+[Idle Words](http://idlewords.com/talks/ "Idle Words")
+
+
 
 ### Miscelanious
 [Chicago Design Archive](http://chicagodesignarchive.org/designers "Chicago Design Archive")
 
 [New York Public Domain](http://publicdomain.nypl.org/pd-visualization/ "New York Public Domain")
 
-
-
-
-
+[Nature](https://www.nature.com/srep/ "Nature"]
 
