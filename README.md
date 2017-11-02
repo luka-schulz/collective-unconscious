@@ -66,9 +66,13 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Font Review Journal](http://fontreviewjournal.com/ "Font Review Journal")
 
+[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
+
 
 ### Web Design
 [Admire the Web](https://www.admiretheweb.com/ "Admire the Web")
+
+[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 
 ### Industrial Design
@@ -87,6 +91,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Letterpunch](http://letterpunch.blogspot.com/ "Letterpunch")
 
 [Network Osaka](http://www.networkosaka.com/ "Network Osaka")
+
+[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 
 
