@@ -114,6 +114,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Catalogtree](http://www.catalogtree.net/ "Catalogtree")
 
+[Visual Complexity](http://www.visualcomplexity.com/vc/ "Visual Complexity")
+
+[Giorgia Lupi](http://giorgialupi.com/work/ "Giorgia Lupi")
+
 
 
 ### New Medians
