@@ -137,6 +137,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Tim Wood](https://del.icio.us/timwood "Tim Wood")
 
+[Olivia Grace](http://oxg7534.cias.rit.edu/#/ "Olivia Grace")
+
+[JP Fairchild](http://jpfairchild.com/ "JP Fairchild")
+
 
 
 ### Website Curation
@@ -183,6 +187,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Open Directory](http://www.open-directory.co/ "Open Directory")
 
+[Berg London](http://berglondon.com/projects/ "Berg London")
+
 
 
 ### Industrial Design
@@ -196,6 +202,12 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 
 ### Blogs
+[Magical Nihilism](https://magicalnihilism.com/ "Magical Nihilism")
+
+[Interconnected](http://interconnected.org/home/ "Interconnected")
+
+[Tea Uglow](http://teau.me/ "Tea Uglow")
+
 [Ignant](https://www.ignant.com/category/art/ "Ignant")
 
 [Hello Bauldoff](http://hello.bauldoff.com/ "Hello Bauldoff")
