@@ -137,10 +137,6 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Tim Wood](https://del.icio.us/timwood "Tim Wood")
 
-[Olivia Grace](http://oxg7534.cias.rit.edu/#/ "Olivia Grace")
-
-[JP Fairchild](http://jpfairchild.com/ "JP Fairchild")
-
 
 
 ### Website Curation
