@@ -225,3 +225,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Nature](https://www.nature.com/srep/ "Nature")
 
+[Your World of Text](https://www.yourworldoftext.com/ "Your World of Text")
+
+
+
+### People and Places
+[IAMAS](http://www.iamas.ac.jp/en/ "IAMAS")
+
