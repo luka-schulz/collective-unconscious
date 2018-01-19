@@ -176,6 +176,21 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Stash Media](http://www.stashmedia.tv/ "Stash Media")
 
 
+### Illustration
+[Brian Edward Miller](http://orlincultureshop.com/ "Brian Edward Miller")
+
+[Igor Piwowarczyk](https://igorpiwowarczyk.artstation.com/ "Igor Piwowarczyk")
+
+[Tom Haugomat](http://tomhaugomat.tumblr.com/ "Tom Haugomat")
+
+[Peter Strain](http://www.peterstrain.co.uk/ "Peter Strain")
+
+[Jeff Ostberg](http://jeffostberg.se/ "Jeff Ostberg")
+
+[1989](http://1989-fabiolamorcillo.com/ "1989")
+
+[Mike McQuade](http://mikemcquade.com/ "Mike McQuade")
+
 
 ### Design Studios
 
@@ -226,6 +241,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Nature](https://www.nature.com/srep/ "Nature")
 
 [Your World of Text](https://www.yourworldoftext.com/ "Your World of Text")
+
+[Magazine Well](http://magazinewall.tumblr.com/ "Magazine Well")
+
+[I'm Google](http://dinakelberman.tumblr.com/ "I'm Google")
 
 
 
