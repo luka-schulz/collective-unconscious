@@ -101,6 +101,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Animography](https://animography.net/collections/typefaces "Animography")
 
+[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
+
 
 
 ### Data
@@ -138,6 +140,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Miguel Cardona](http://portfolio.miguelcardona.com/ "Miguel Cardona")
 
 [Tim Wood](https://del.icio.us/timwood "Tim Wood")
+
+[Evan Anthony]
+
+[Jeremy Abel]
 
 
 
@@ -232,6 +238,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Network Osaka](http://www.networkosaka.com/ "Network Osaka")
 
 [Idle Words](http://idlewords.com/talks/ "Idle Words")
+
+[Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 
 
