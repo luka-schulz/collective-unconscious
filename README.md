@@ -99,6 +99,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Font Review Journal](http://fontreviewjournal.com/ "Font Review Journal")
 
+[Animography](https://animography.net/collections/typefaces "Animography")
+
 
 
 ### Data
