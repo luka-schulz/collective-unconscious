@@ -223,6 +223,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 ### Blogs
 [Magical Nihilism](https://magicalnihilism.com/ "Magical Nihilism")
 
+[Noisy Decent Graphics](http://noisydecentgraphics.typepad.com/design/ "Noisy Decent Graphics")
+
+[Russell Davies](http://russelldavies.typepad.com/ "Russell Davies")
+
 [Interconnected](http://interconnected.org/home/ "Interconnected")
 
 [Tea Uglow](http://teau.me/ "Tea Uglow")
@@ -240,6 +244,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Idle Words](http://idlewords.com/talks/ "Idle Words")
 
 [Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
+
+[Analogy Library](http://analogylibrary.tumblr.com/ "Analogy Library")
 
 
 
