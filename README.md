@@ -2,6 +2,26 @@
 ## The Collective Unconscious
 It seems that you have found my exocortex, a curated collection of all the scintilating gems that I have found while bumbling around the internet over the years. Feel free to poke around, get inspired, but never forget to get back to the real world.
 
+
+<!---### Tutorials
+[Cinema 4D]( "Cinema 4D")
+
+[After Effects]( "After Effects")
+
+[Photoshop]( "Photoshop")
+
+[Illustrator]( "Illustrator")
+
+[Touch Designer]( "Touch Designer")
+
+[Arnold]( "Arnold")
+
+[Houdini]( "Houdini")
+
+[Substance Designer]( "Substance Designer")--->
+
+
+
 ### Visual Inspiration
 [Otaku Gangster](http://otakugangsta.com/ "Otaku Gangster")
 
@@ -13,7 +33,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Designspiration](https://www.designspiration.net/ "Designspiration")
 
-[Graphic Porn](http://graphic-porn.com/archive "Graphic Porn")
+<!---[Graphic Porn](http://graphic-porn.com/archive "Graphic Porn")--->
 
 [Trend List](http://trendlist.org/ "Trend List")
 
@@ -67,6 +87,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Blanka](http://www.blanka.co.uk/ "Blanka")
 
 [Blanka Flickr](https://www.flickr.com/photos/blankaposters/albums/with/72157605194372046 "Blanka Flickr")
+
 
 
 ### Interaction / UI
@@ -124,29 +145,6 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 
 
-### New Medians
-[Ben Yonda](http://benyonda.com/ "Ben Yonda")
-
-[Greg Herman](http://gregoryherman.com/ "Greg Herman")
-
-[Philip Sierzega](http://www.stewardesslollipop.com/ "Philip Sierzega")
-
-[Kevin Whitfield](http://www.virtualmatter.org/ "Kevin Whitfield")
-
-[Jake Lodwick](http://jakelodwick.com/ "Jake Lodwick")
-
-[Mike Strobert](http://thejuniorfunclub.com/ "Mike Strobert")
-
-[Miguel Cardona](http://portfolio.miguelcardona.com/ "Miguel Cardona")
-
-[Tim Wood](https://del.icio.us/timwood "Tim Wood")
-
-[Evan Anthony]
-
-[Jeremy Abel]
-
-
-
 ### Website Curation
 [Admire the Web](https://www.admiretheweb.com/ "Admire the Web")
 
@@ -184,6 +182,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Stash Media](http://www.stashmedia.tv/ "Stash Media")
 
 
+
 ### Illustration
 [Brian Edward Miller](http://orlincultureshop.com/ "Brian Edward Miller")
 
@@ -200,6 +199,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Mike McQuade](http://mikemcquade.com/ "Mike McQuade")
 
 
+
 ### Design Studios
 
 [Image of the Studio](http://imageofthestudio.com/studios "Image of the Studio")
@@ -207,16 +207,6 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Open Directory](http://www.open-directory.co/ "Open Directory")
 
 [Berg London](http://berglondon.com/projects/ "Berg London")
-
-
-
-### Industrial Design
-[le Manoosh](https://lemanoosh.com/ "le Manoosh")
-
-
-
-### Fine Art
-[Arsty](https://www.artsy.net/ "Artsy")
 
 
 
@@ -249,6 +239,16 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 
 
+### Industrial Design
+[le Manoosh](https://lemanoosh.com/ "le Manoosh")
+
+
+
+### Fine Art
+[Arsty](https://www.artsy.net/ "Artsy")
+
+
+
 ### Miscelanious
 [Chicago Design Archive](http://chicagodesignarchive.org/designers "Chicago Design Archive")
 
@@ -261,6 +261,29 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Magazine Well](http://magazinewall.tumblr.com/ "Magazine Well")
 
 [I'm Google](http://dinakelberman.tumblr.com/ "I'm Google")
+
+
+
+### New Medians
+[Ben Yonda](http://benyonda.com/ "Ben Yonda")
+
+[Greg Herman](http://gregoryherman.com/ "Greg Herman")
+
+[Philip Sierzega](http://www.stewardesslollipop.com/ "Philip Sierzega")
+
+[Kevin Whitfield](http://www.virtualmatter.org/ "Kevin Whitfield")
+
+[Jake Lodwick](http://jakelodwick.com/ "Jake Lodwick")
+
+[Mike Strobert](http://thejuniorfunclub.com/ "Mike Strobert")
+
+[Miguel Cardona](http://portfolio.miguelcardona.com/ "Miguel Cardona")
+
+[Tim Wood](https://del.icio.us/timwood "Tim Wood")
+
+[Evan Anthony](http://evananthony.com/ "Evan Anthony")
+
+[Jeremy Abel](http://jeremyabel.com/ "Jeremy Abel")
 
 
 
