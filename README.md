@@ -63,6 +63,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Emoji Book Club](http://emojibook.club/gallery "Emoji Book Club")
 
+[Mikey Joyce](http://mikey-joyce.tumblr.com "Mikey Joyce")
+
 
 
 ### Posters
@@ -89,6 +91,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Blanka](http://www.blanka.co.uk/ "Blanka")
 
 [Blanka Flickr](https://www.flickr.com/photos/blankaposters/albums/with/72157605194372046 "Blanka Flickr")
+
+[Mischa Appel](https://mischaappel.com "Mischa Appel")
 
 
 
