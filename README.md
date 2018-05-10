@@ -243,6 +243,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Analogy Library](http://analogylibrary.tumblr.com/ "Analogy Library")
 
+[Flat File](https://readymag.com/flatfile "Flat File")
+
+[Fuse.blog](http://www.fuse.blog/ "Fuse.blog")
+
 
 
 ### Industrial Design
