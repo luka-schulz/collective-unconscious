@@ -104,6 +104,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Studio Jimbo](http://jimbobarbu.com/ "Studio Jimbo")
 
+[Pierre Jeanneau](https://www.pierrejeanneau.com/ "Pierre Jeanneau")
+
 
 
 
