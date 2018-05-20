@@ -65,6 +65,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Mikey Joyce](http://mikey-joyce.tumblr.com "Mikey Joyce")
 
+[Maya Fuhr](http://www.mayafuhr.com/ "Maya Fuhr")
+
+[Ross Paul McEwan](https://arp-rpm.tumblr.com/ "Ross Paul McEwan")
+
 
 
 ### Posters
@@ -93,6 +97,14 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Blanka Flickr](https://www.flickr.com/photos/blankaposters/albums/with/72157605194372046 "Blanka Flickr")
 
 [Mischa Appel](https://mischaappel.com "Mischa Appel")
+
+[Virgile Flores](http://virgileflores.com/projects.html "Virgile Flores")
+
+[Mischa Appel](https://mischaappel.com/ "Mischa Appel")
+
+[Studio Jimbo](http://jimbobarbu.com/ "Studio Jimbo")
+
+
 
 
 
@@ -129,6 +141,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Animography](https://animography.net/collections/typefaces "Animography")
 
 [Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
+
+[Anatole Couteau](https://anatolecouteau.xyz/ "Anatole Couteau")
 
 
 
@@ -204,6 +218,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Mike McQuade](http://mikemcquade.com/ "Mike McQuade")
 
+[Olivié Keck](https://www.oliviekeck.com/ "Olivié Keck")
+
 
 
 ### Design Studios
@@ -213,6 +229,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Open Directory](http://www.open-directory.co/ "Open Directory")
 
 [Berg London](http://berglondon.com/projects/ "Berg London")
+
+[DIA]
 
 
 
@@ -246,6 +264,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Flat File](https://readymag.com/flatfile "Flat File")
 
 [Fuse.blog](http://www.fuse.blog/ "Fuse.blog")
+
+[Design Ethics](http://designethics.co.nz/index.html "Design Ethics")
 
 
 
