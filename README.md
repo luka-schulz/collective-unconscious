@@ -65,6 +65,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Mikey Joyce](http://mikey-joyce.tumblr.com "Mikey Joyce")
 
+[Today I Love This](http://todayilovethis.tumblr.com/ "Today I Love This")
+
 
 
 ### Posters
@@ -95,6 +97,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Mischa Appel](https://mischaappel.com "Mischa Appel")
 
 [Computerized Forms](http://computerizedforms.com/db-x-jamire-williams/ "Computerized Forms)
+
+[Graphic Design Festival Scotland](https://graphicdesignfestivalscotland.com/2016-gallery/ "Graphic Design Festival Scotland")
 
 
 
@@ -133,6 +137,12 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Viljami Salminen](https://viljamis.com/ "Viljami Salminen")
 
 [Motion Type Project](https://motiontypeproject.com/STUDY "Motion Type Project")
+
+[Aron Jancso](https://www.flickr.com/photos/mil3n/page1 "Aron Jancso")
+
+[Pyte Foundry](http://www.thepytefoundry.net/ "Pyte Foundry")
+
+
 
 
 
