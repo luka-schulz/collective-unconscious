@@ -79,7 +79,7 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Robert Hodgin 2011](https://vimeo.com/32300198 "Robert Hodgin 2011")
 
-[Robert Hodgin: Creates Visualizations]( "Robert Hodgin: Creates Visualizations")
+[Robert Hodgin: Creates Visualizations](https://vimeo.com/28619251 "Robert Hodgin: Creates Visualizations")
 
 [James Jean](https://vimeo.com/18656595 "James Jean")
 
@@ -99,15 +99,15 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [beeple: Everydays](https://vimeo.com/125524216 "beeple: Everydays")
 
-[Michael Gough: Drawing as Literacy]( "Michael Gough: Drawing as Literacy")
+[Michael Gough: Drawing as Literacy](https://www.youtube.com/watch?v=nj312ucehzI "Michael Gough: Drawing as Literacy")
 
-[Dan Mall: Replacing the Internship with Apprenticeship]( "Dan Mall: Replacing the Internship with Apprenticeship")
+[Dan Mall: Replacing the Internship with Apprenticeship](https://vimeo.com/172132278 "Dan Mall: Replacing the Internship with Apprenticeship")
 
 [Joshua Davis: Never Let Success Get in the Way of Creativity](https://vimeo.com/77785831 "Joshua Davis: Never Let Success Get in the Way of Creativity")
 
 [Cap Watkins: Treat Your Life Like a User Experience Problem](https://vimeo.com/171947933 "Cap Watkins: Treat Your Life Like a User Experience Problem")
 
-[Tobias Frere-Jones: Break Things Deliberatly]( "Tobias Frere-Jones: Break Things Deliberatly")
+[Tobias Frere-Jones: Break Things Deliberatly](https://vimeo.com/171810133 "Tobias Frere-Jones: Break Things Deliberatly")
 
 [Tobias Frere-Jones: Wim Crouwel](https://vimeo.com/4982894 "Tobias Frere-Jones: Wim Crouwel")
 
@@ -137,7 +137,7 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Bret Victor: Inventing on Principle](https://vimeo.com/36579366 "Bret Victor: Inventing on Principle")
 
-[Bret Victor: The Future of Programming]( "Bret Victor: The Future of Programming")
+[Bret Victor: The Future of Programming](https://vimeo.com/71278954 "Bret Victor: The Future of Programming")
 
 [Bret Victor: Toolmaker](https://vimeo.com/97454237 "Bret Victor: Toolmaker")
 
@@ -185,7 +185,7 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Tom Uglow: Google Creative Labs](https://www.youtube.com/watch?v=SINiFjFuzhI "Tom Uglow: Google Creative Labs")
 
-[Tom Uglow: Google, Head of Creative Labs]( "Tom Uglow: Google, Head of Creative Labs")
+[Tom Uglow: Google, Head of Creative Labs](https://www.youtube.com/watch?v=NvE8wsj5DE8 "Tom Uglow: Google, Head of Creative Labs")
 
 [Robert Wong: Google Creative Lab](https://www.youtube.com/watch?v=NvE8wsj5DE8 "Robert Wong: Google Creative Lab")
 
@@ -260,7 +260,9 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Brian Regan: How to Make People Laugh](https://www.youtube.com/watch?v=OZDlEKRYQFk "Brian Regan: How to Make People Laugh")
 
-[Malcolm Gladwell: David and Goliath]( "Malcolm Gladwell: David and Goliath")
+[Malcolm Gladwell: David and Goliath](https://www.youtube.com/watch?v=5L0GGfQblrc&t=1s "Malcolm Gladwell: David and Goliath")
+
+[Malcolm Gladwell: Genius and Curiosity](https://www.youtube.com/watch?v=kSQjzHx-Wkc "Malcolm Gladwell: Genius and Curiosity")
 
 [Daniel Goleman: Focus](https://www.youtube.com/watch?v=HTfYv3IEOqM "Daniel Goleman: Focus")
 
@@ -278,7 +280,7 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Richard Dawkins: The Rational Revolutionary](https://www.youtube.com/watch?v=aWIQ5nWKyNc "Richard Dawkins: The Rational Revolutionary")
 
-[Brave New World vs Nineteen Eighty-Four]( "Brave New World vs Nineteen Eighty-Four")
+[Brave New World vs Nineteen Eighty-Four](https://www.youtube.com/watch?v=31CcclqEiZw "Brave New World vs Nineteen Eighty-Four")
 
 [Dan Harris & Sam Harris: Waking Up](https://www.youtube.com/watch?v=0PTAc4WqZAg "Dan Harris & Sam Harris: Waking Up")
 
@@ -314,9 +316,7 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Walter Isaacson: The Innovative Genius](https://www.youtube.com/watch?v=_WXCXUMUjVQ "Walter Isaacson: The Innovative Genius")
 
-[Malcolm Gladwell: Genius and Curiosity](https://www.youtube.com/watch?v=kSQjzHx-Wkc "Malcolm Gladwell: Genius and Curiosity")
-
-[Neil deGrasse Tyson & Walter Isaacson: What Makes a Genius]( "Neil deGrasse Tyson & Walter Isaacson: What Makes a Genius")
+[Neil deGrasse Tyson & Walter Isaacson: What Makes a Genius](https://www.youtube.com/watch?v=a_cvkpFGUxM "Neil deGrasse Tyson & Walter Isaacson: What Makes a Genius")
 
 [Walter Isaacson: Steve Jobs](https://www.youtube.com/watch?v=DHmkWrG2g1k "Walter Isaacson: Steve Jobs")
 
@@ -334,9 +334,9 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Steven Johnson: Where Good Ideas Come From](https://www.youtube.com/watch?v=U3Ce3Vs0Ec0 "Steven Johnson: Where Good Ideas Come From")
 
-[Steven Johnson: Everything Bad Is Good for You]( "Steven Johnson: Everything Bad Is Good for You")
+[Steven Johnson: Everything Bad Is Good for You](https://www.youtube.com/watch?v=vORDFQgoS5w "Steven Johnson: Everything Bad Is Good for You")
 
-[Matt Ridley: When ideas have sex]( "Matt Ridley: When ideas have sex")
+[Matt Ridley: When ideas have sex](https://www.youtube.com/watch?v=OLHh9E5ilZ4 "Matt Ridley: When ideas have sex")
 
 [Douglas Lisle: The pleasure trap](https://www.youtube.com/watch?v=jX2btaDOBK8 "Douglas Lisle: The pleasure trap")
 
