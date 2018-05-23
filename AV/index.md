@@ -1,5 +1,5 @@
 ###### Created by Luka Schulz
-## The Collective Unconscious: Video Archive
+## The Collective Unconscious: Audio Visual Archive
 It seems that you have found my AV exocortex, a curated collection of all the scintilating gems that I have found while bumbling around the internet over the years. Feel free to poke around, get inspired, but never forget to get back to the real world.
 
 
