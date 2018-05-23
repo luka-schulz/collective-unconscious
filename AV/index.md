@@ -344,6 +344,12 @@ It seems that you have found my AV exocortex, a curated collection of all the sc
 
 [Conor Neill: The Discipline of Finishing](https://www.youtube.com/watch?v=zXCiv4sc5eY "Conor Neill: The Discipline of Finishing")
 
+[David Kwong: Spellbound](https://www.youtube.com/watch?v=RnLj4kWWsOM "David Kwong: Spellbound")
+
+[Beau Lotto: Deviate](https://www.youtube.com/watch?v=hQUgGg9XzbQ "Beau Lotto: Deviate")
+
+[The Magic Show](https://www.thisamericanlife.org/619/the-magic-show "The Magic Show")
+
 
 
 
