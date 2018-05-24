@@ -96,7 +96,7 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Mischa Appel](https://mischaappel.com "Mischa Appel")
 
-[Computerized Forms](http://computerizedforms.com/db-x-jamire-williams/ "Computerized Forms)
+[Computerized Forms](http://computerizedforms.com/db-x-jamire-williams/ "Computerized Forms")
 
 [Graphic Design Festival Scotland](https://graphicdesignfestivalscotland.com/2016-gallery/ "Graphic Design Festival Scotland")
 
