@@ -234,6 +234,11 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Berg London](http://berglondon.com/projects/ "Berg London")
 
 
+### Designers
+
+[Daniel D. Kent](https://ikhoor.com/ "Daniel D. Kent")
+
+
 
 ### Blogs
 [Magical Nihilism](https://magicalnihilism.com/ "Magical Nihilism")
