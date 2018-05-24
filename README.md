@@ -67,6 +67,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Today I Love This](http://todayilovethis.tumblr.com/ "Today I Love This")
 
+[Typografika](http://typografika.tumblr.com/ "Typografika")
+
 
 
 ### Posters
@@ -143,6 +145,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Aron Jancso](https://www.flickr.com/photos/mil3n/page1 "Aron Jancso")
 
 [Pyte Foundry](http://www.thepytefoundry.net/ "Pyte Foundry")
+
+[Web Design is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period "Web Design is 95% Typography")
+
+[Justin Jackson](https://justinjackson.ca/words.html "Justin Jackson")
 
 
 
@@ -233,6 +239,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Berg London](http://berglondon.com/projects/ "Berg London")
 
+[République Studio](http://www.republique.studio/ "République Studio")
+
 
 ### Designers
 
@@ -270,6 +278,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Flat File](https://readymag.com/flatfile "Flat File")
 
 [Fuse.blog](http://www.fuse.blog/ "Fuse.blog")
+
+[Creative Doc](http://creativedoc.co/archive/ "Creative Doc")
 
 
 
