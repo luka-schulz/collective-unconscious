@@ -69,6 +69,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Typografika](http://typografika.tumblr.com/ "Typografika")
 
+[Clvrgoods](http://clevergoods.tumblr.com/ "Clvrgoods")
+
 
 
 ### Posters
@@ -103,6 +105,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Graphic Design Festival Scotland](https://graphicdesignfestivalscotland.com/2016-gallery/ "Graphic Design Festival Scotland")
 
 [Studio 150](https://studio150.info/ "Studio 150")
+
+[Sudpol Plakate](http://sudpol-plakate.blogspot.co.uk/ "Sudpol Plakate")
 
 
 
@@ -229,6 +233,16 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Mike McQuade](http://mikemcquade.com/ "Mike McQuade")
 
+[Karl-Joel Larsson](http://karljoel.se/ "Karl-Joel Larsson")
+
+[Damien Correll](http://damiencorrell.com/ "Damien Correll")
+
+[Jaedoo Lee](https://jaedoolee.com/ "Jaedoo Lee")
+
+[Antti Kalevi](http://www.anttikalevi.com/ "Antti Kalevi")
+
+[Egle Zvirblyte](http://www.eglezvirblyte.com/ "Egle Zvirblyte")
+
 
 
 ### Design Studios
@@ -245,6 +259,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 ### Designers
 
 [Daniel D. Kent](https://ikhoor.com/ "Daniel D. Kent")
+
+[Quim Marin](http://quimmarinstudio.tumblr.com/ "Quim Marin")
 
 
 
