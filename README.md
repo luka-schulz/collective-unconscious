@@ -175,6 +175,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Giorgia Lupi](http://giorgialupi.com/work/ "Giorgia Lupi")
 
+[Polygraph](http://polygraph.cool/ "Polygraph")
+
 
 
 
@@ -243,6 +245,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [Egle Zvirblyte](http://www.eglezvirblyte.com/ "Egle Zvirblyte")
 
+[Ed Cheverton](http://cargocollective.com/edwardcheverton/ "Ed Cheverton")
+
 
 
 ### Design Studios
@@ -257,6 +261,10 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [B&R](http://www.bundr.ch/archiv "B&R")
 
+[Sutdio 150](https://studio150.info/ "Studio 150")
+
+[Ikhoor](https://ikhoor.com/ "Ikhoor")
+
 
 ### Designers
 
@@ -267,6 +275,8 @@ It seems that you have found my exocortex, a curated collection of all the scint
 [Alicia Eggert](http://aliciaeggert.com/nav/home.html "Alicia Eggert")
 
 [Jonathan Chomko](http://jonathanchomko.com/ "Jonathan Chomko")
+
+[Ross Paul McEwan](https://arp-rpm.tumblr.com/ "Ross Paul McEwan")
 
 
 
