@@ -255,12 +255,18 @@ It seems that you have found my exocortex, a curated collection of all the scint
 
 [République Studio](http://www.republique.studio/ "République Studio")
 
+[B&R](http://www.bundr.ch/archiv "B&R")
+
 
 ### Designers
 
 [Daniel D. Kent](https://ikhoor.com/ "Daniel D. Kent")
 
 [Quim Marin](http://quimmarinstudio.tumblr.com/ "Quim Marin")
+
+[Alicia Eggert](http://aliciaeggert.com/nav/home.html "Alicia Eggert")
+
+[Jonathan Chomko](http://jonathanchomko.com/ "Jonathan Chomko")
 
 
 
